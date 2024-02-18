@@ -1,4 +1,4 @@
-# akbankpythonbootcamp2024feb
+# Akbank Python Bootcamp 2024 Februrary
 This repository is created for the Akbank Python Bootcamp Project 2024 Feb
 ### Instructions
 * 1.Install python and include it into the environment
