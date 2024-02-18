@@ -1,0 +1,7 @@
+The Swiss Family Robinson,Johann David Wyss,1812-3,123
+Grimm'S Fairy Tales,Jacob And Wilhelm Grimm,1823,145
+A Visit From St. Nicholas,Clement Clarke Moore,1823,123
+Nicholas Nickleby,Charles Dickens,1838,167
+A Christmas Carol,Charles Dickens,1839,126
+The Three Musketeers,Alexandre Dumas,1844,200
+Slovenly Peter,Heinrich Hoffman,1848,126
